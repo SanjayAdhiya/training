@@ -1,13 +1,13 @@
-package com.gcit.springbootdemo;
+package com.gcit.pet.petshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootdemoApplication {
+public class PetshopApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootdemoApplication.class, args);
+		SpringApplication.run(PetshopApplication.class, args);
 	}
 
 }
